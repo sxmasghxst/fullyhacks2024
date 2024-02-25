@@ -1,2 +1,2 @@
-# fullyhacks2024
+# calm lil project
 ghost shop
